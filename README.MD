@@ -18,9 +18,6 @@ Here are some of the technologies I'm proficient in.
 - **Libraries/Frameworks:** PyTorch, TensorFlow, ONNX Runtime, OpenCV, Scikit‑learn, NumPy, Pandas, SymPy, Matplotlib, Selenium.
 - **Tools/Platforms:** PostgreSQL, MongoDB, Git, Linux, Docker
 
-## 📊 My GitHub Stats
-[![Geon Tack's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geontackee&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 📫 Get In Touch
 - **LinkedIn:** [https://www.linkedin.com/in/geon-tack-lee/]
 - **Email:** [gtl256@nyu.edu]
