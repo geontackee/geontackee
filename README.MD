@@ -1,6 +1,6 @@
 # Hi there, I'm Geon Tack Lee (이건탁) 👋
 
-I'm a senior CS student at NYUAD. I'm a passionate developer and researcher with a focus on machine learning and data analysis. I enjoy building innovative projects that solve interesting problems.
+I'm a senior CS student at NYUAD. I'm a passionate developer and researcher with a focus on machine learning and data analysis. I am currently a Research Assistant at NYUAD Embodied AI and Robotics Lab, focusing on Sign Language Translation. I enjoy building innovative projects that solve interesting problems.
 
 ## 🚀 My Main Projects
 Here are a few projects I'm proud of. You can find more in my repositories!
