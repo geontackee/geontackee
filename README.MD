@@ -14,7 +14,7 @@ Here are a few projects I'm proud of. You can find more in my repositories!
 ## 🛠️ My Skills & Technologies
 Here are some of the technologies I'm proficient in.
 
-- **Languages:** Python, C, C++
+- **Languages:** Python, C, C++, Java
 - **Libraries/Frameworks:** PyTorch, TensorFlow, ONNX Runtime, OpenCV, Scikit‑learn, NumPy, Pandas, SymPy, Matplotlib, Selenium.
 - **Tools/Platforms:** PostgreSQL, MongoDB, Git, Linux, Docker
 
